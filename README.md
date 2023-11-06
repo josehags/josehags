@@ -4,10 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josehenriqueguedes_/)
 
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrovitor3&show_icons=true&theme=dracula)
+![José GitHub stats](https://github-readme-stats.vercel.app/api?username=josehags&show_icons=true&theme=dracula)
 
 ### Tecnologias utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrovitor3&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josehags&layout=compact)
 
 <div style="display: inline_block"> 
   <br/>
